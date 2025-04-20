@@ -248,7 +248,7 @@ with col2:
 with st.sidebar:
     st.markdown("""
         <div style="text-align:center; margin-bottom:2rem;">
-            <h2 style="color:#81C784;">🍊 Diagnosa Jeruk</h2>
+            <h2 style="color:#81C784;">🍊 Diagnosa Penyakit Jeruk</h2>
             <p>Sistem pakar untuk mendiagnosis penyakit pada tanaman jeruk menggunakan metode Bayes</p>
         </div>
     """, unsafe_allow_html=True)
